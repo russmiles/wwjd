@@ -1,0 +1,9 @@
+group: russmiles
+artifact: wwjd
+version: "0.0.1-SNAPSHOT"
+
+requires: "1.1.3-20161025171005"
+
+dependencies:
+
+extensions:
